@@ -1,4 +1,4 @@
-streamlit as st
+import streamlit as st
 from utils.calculations import (
     calculate_implied_probability, 
     calculate_total_implied_probability, 
