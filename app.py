@@ -6,7 +6,7 @@ from components.fibonacci_engine import fibonacci_tab
 from components.technical_indicators import technical_indicators_tab
 from components.volume_analysis import volume_analysis_tab
 from components.data_integration_dashboard import data_integration_tab
-
+ 
 def main():
     # Configure Streamlit page
     st.set_page_config(
